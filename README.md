@@ -1,5 +1,5 @@
 # Node.js-Promise
-## What You'll Learn
+## What You will see here:
 
-- How to **call a second promise after the first one resolves**.
-- How to **execute promises sequentially**, ensuring each runs only after the previous one completes.
+- **Calling a second promise after the first one resolves**.
+- **Executing promises sequentially**, ensuring each runs only after the previous one completes.
