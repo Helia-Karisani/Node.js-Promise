@@ -5,7 +5,7 @@
 - **Executing promises sequentially**, ensuring each runs only after the previous one completes.
 - **An example on await and async**
 
-## About This Example
+## About The Example
 
 This example demonstrates how **async** and **await** simplify asynchronous programming in JavaScript.  
 An **async function (`myAsyncFunction`)** performs a conditional check, returning a success message if the condition is true or throwing an error otherwise.  
